@@ -1,0 +1,16 @@
+{
+  "funcionarios": [
+    {
+      "nome": "Daniel",
+      "funcao": "estagio",
+      "salario": "10000",
+      "id": "3"
+    },
+    {
+      "id": "0db5",
+      "nome": "James da Silva",
+      "funcao": "estagio",
+      "salario": "1250"
+    }
+  ]
+}
